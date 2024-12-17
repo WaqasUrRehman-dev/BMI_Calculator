@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #201f1fad;
+}
+h1{
+    margin: 20px;
+}
+form{
+    margin: 20px;
+}
+p{
+    margin-top: 10px;
+}
+button{
+    margin: 10px 0;
+    padding: 7px 12px;
+    border-radius: 10px;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+}
+
+p input{
+    padding-top: 4px;
+}
+
+#lessWeight{
+    display: none;
+}
+
+#normalWeight{
+    display: none;
+}
+
+#overWeight{
+    display: none;
+}
